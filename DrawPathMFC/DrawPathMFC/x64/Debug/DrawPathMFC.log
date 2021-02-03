@@ -1,0 +1,7 @@
+﻿  Dlg.cpp
+c:\code\cad\drawpathmfc\drawpathmfc\path.h(104): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\code\cad\drawpathmfc\drawpathmfc\dlg.cpp(344): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\code\cad\drawpathmfc\drawpathmfc\dlg.cpp(359): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     Creating library x64\Debug\DrawPathMFC.lib and object x64\Debug\DrawPathMFC.exp
+rxapi.lib(libinit.obj) : warning LNK4099: PDB 'rxapi.pdb' was not found with 'rxapi.lib(libinit.obj)' or at 'C:\code\CAD\DrawPathMFC\x64\Debug\rxapi.pdb'; linking object as if no debug info
+  DrawPathMFC.vcxproj -> C:\code\CAD\DrawPathMFC\x64\Debug\DrawPathMFC.arx

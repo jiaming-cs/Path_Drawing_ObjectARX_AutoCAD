@@ -1,0 +1,2 @@
+﻿  StdAfx.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\yvals_core.h(781): fatal error C1189: #error:  /RTCc rejects conformant code, so it is not supported by the C++ Standard Library. Either remove this compiler option, or define _ALLOW_RTCc_IN_STL to acknowledge that you have received this warning.
